@@ -1,0 +1,35 @@
+style.css
+
+body {
+   background-color: aqua ;
+
+ }
+ hi {
+    color: white;
+    text-align: center;
+
+ }
+
+ h2 {
+    color: darkblue  ;
+    text-align: left;
+}
+
+ p {
+
+    font: italic small-caps bold 16px/2 cursive;
+}
+
+ol {
+   color: lightblue;
+
+}
+
+ul {
+   color: dodgerblue ;
+
+}
+il {
+  color: darkturquoise ;
+
+}
